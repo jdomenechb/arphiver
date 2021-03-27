@@ -1,0 +1,19 @@
+{
+  "name": "jdomenechb/arphiver",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Jordi Domènech",
+      "email": "jdomenechbborges@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Jdomenechb\\Arphiver\\": "src/"
+    }
+  },
+  "require": {
+    "php": ">=7.1",
+    "ext-pdo": "*"
+  }
+}
